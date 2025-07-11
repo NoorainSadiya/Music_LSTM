@@ -7,8 +7,8 @@ An AI model that composes original piano-style melodies by learning from real-wo
 ## ✨ Demo
 
 🎧 [Listen to a generated sample](#)  
-📁 Output MIDI: `generated_output.mid`  
-📁 Output WAV: `generated_output.wav`  
+📁 Output MIDI: `generated_audio.mid`  
+📁 Output WAV: `generated_audio.wav`  
 
 *(Links or embedded audio players can go here once hosted)*
 
